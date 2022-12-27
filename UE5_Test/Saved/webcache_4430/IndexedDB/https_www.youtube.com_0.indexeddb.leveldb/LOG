@@ -1,0 +1,6 @@
+2022/12/27-13:04:53.554 8d4 Creating DB D:/GitHub/Unreal-Engine-5.1-Scene/UE5_Test/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2022/12/27-13:04:53.561 8d4 Reusing MANIFEST D:/GitHub/Unreal-Engine-5.1-Scene/UE5_Test/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/27-13:08:22.739 4970 Level-0 table #5: started
+2022/12/27-13:08:22.742 4970 Level-0 table #5: 7691 bytes OK
+2022/12/27-13:08:22.744 4970 Delete type=0 #3
+2022/12/27-13:08:22.745 4970 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
