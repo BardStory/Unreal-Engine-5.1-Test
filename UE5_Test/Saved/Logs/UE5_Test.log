@@ -1329,3 +1329,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2022.12.27-20.42.32:006][114]LogRendererCore: Warning: Query 'Unaccounted' not ready.
 [2022.12.27-20.42.32:022][116]LogRendererCore: Warning: Query 'Unaccounted' not ready.
 [2022.12.27-20.44.20:146][814]LogDerivedDataCache: C:/Users/Joshua Bard/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.131 and deleted 0 files with total size 0 MiB. Scanned 2030 files in 2012 folders with total size 46 MiB.
+[2022.12.27-20.49.14:756][696]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.12.27-20.52.56:917][362]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
