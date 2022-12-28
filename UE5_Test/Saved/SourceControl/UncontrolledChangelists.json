@@ -7,6 +7,12 @@
 			"files": [
 				"D:/GitHub/Unreal-Engine-5.1-Scene/UE5_Test/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/GitHub/Unreal-Engine-5.1-Scene/UE5_Test/Content/NewMap_HLOD0_Instancing.uasset",
+				"D:/GitHub/Unreal-Engine-5.1-Scene/UE5_Test/Content/NewMap.umap",
+				"D:/GitHub/Unreal-Engine-5.1-Scene/UE5_Test/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/GitHub/Unreal-Engine-5.1-Scene/UE5_Test/Content/Trial.umap",
+				"D:/GitHub/Unreal-Engine-5.1-Scene/UE5_Test/Content/Kobo_Nature/Levels/Trial.umap",
+				"D:/GitHub/Unreal-Engine-5.1-Scene/UE5_Test/Content/Kobo_Nature/Levels/NewMap_HLOD0_Instancing.uasset",
+				"D:/GitHub/Unreal-Engine-5.1-Scene/UE5_Test/Content/Kobo_Nature/Materials/M-Instances/MI-Leaves/MI-PalmLeaves-03.uasset",
 				"D:/GitHub/Unreal-Engine-5.1-Scene/UE5_Test/Content/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH.uasset",
 				"D:/GitHub/Unreal-Engine-5.1-Scene/UE5_Test/Content/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9.uasset",
 				"D:/GitHub/Unreal-Engine-5.1-Scene/UE5_Test/Content/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N.uasset",
@@ -84,8 +90,7 @@
 				"D:/GitHub/Unreal-Engine-5.1-Scene/UE5_Test/Content/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE.uasset",
 				"D:/GitHub/Unreal-Engine-5.1-Scene/UE5_Test/Content/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E.uasset",
 				"D:/GitHub/Unreal-Engine-5.1-Scene/UE5_Test/Content/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA.uasset",
-				"D:/GitHub/Unreal-Engine-5.1-Scene/UE5_Test/Content/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6.uasset",
-				"D:/GitHub/Unreal-Engine-5.1-Scene/UE5_Test/Content/NewMap.umap"
+				"D:/GitHub/Unreal-Engine-5.1-Scene/UE5_Test/Content/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6.uasset"
 			]
 		}
 	]
